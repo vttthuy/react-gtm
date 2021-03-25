@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/build/static/js/main.40733439.chunk.js",
-    "main.js.map": "/build/static/js/main.40733439.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.4179d14d.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.4179d14d.js.map",
-    "static/js/2.63453b4a.chunk.js": "/build/static/js/2.63453b4a.chunk.js",
-    "static/js/2.63453b4a.chunk.js.map": "/build/static/js/2.63453b4a.chunk.js.map",
-    "static/js/3.a92092eb.chunk.js": "/build/static/js/3.a92092eb.chunk.js",
-    "static/js/3.a92092eb.chunk.js.map": "/build/static/js/3.a92092eb.chunk.js.map",
-    "index.html": "/build/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/build/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.63453b4a.chunk.js.LICENSE.txt": "/build/static/js/2.63453b4a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/build/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-gtm/build/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-gtm/build/static/js/main.40733439.chunk.js",
+    "main.js.map": "/react-gtm/build/static/js/main.40733439.chunk.js.map",
+    "runtime-main.js": "/react-gtm/build/static/js/runtime-main.327c35dd.js",
+    "runtime-main.js.map": "/react-gtm/build/static/js/runtime-main.327c35dd.js.map",
+    "static/js/2.63453b4a.chunk.js": "/react-gtm/build/static/js/2.63453b4a.chunk.js",
+    "static/js/2.63453b4a.chunk.js.map": "/react-gtm/build/static/js/2.63453b4a.chunk.js.map",
+    "static/js/3.a92092eb.chunk.js": "/react-gtm/build/static/js/3.a92092eb.chunk.js",
+    "static/js/3.a92092eb.chunk.js.map": "/react-gtm/build/static/js/3.a92092eb.chunk.js.map",
+    "index.html": "/react-gtm/build/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-gtm/build/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.63453b4a.chunk.js.LICENSE.txt": "/react-gtm/build/static/js/2.63453b4a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-gtm/build/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4179d14d.js",
+    "static/js/runtime-main.327c35dd.js",
     "static/js/2.63453b4a.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.40733439.chunk.js"
